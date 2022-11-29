@@ -1,2 +1,2 @@
 # Reliable-Data-Transfer-Demo-Using-Python
-This is a Computer Networks and Security subject assignment to implement Reliable Data transfer using python programming.
+This is an assignment of Computer Networks and Security. An implementation of Reliable Data transfer Protocol using python programming.
